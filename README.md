@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Anna
 - 👀 I’m interested in many things!
-- 🌱 I’m currently learning .to become Full stack developer.
+- 🌱 I’m currently learning to become Full stack developer.
 - 💞️ I’m looking to collaborate on open source projects and to develop my skills as a front developer.
 
 <!---
